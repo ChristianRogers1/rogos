@@ -5,7 +5,7 @@ If you have any recommendations for changes I should make, features I should add
 
 This will probably take a while for me to make, so check back occasionally for updates.
 
-#Setup
+## Setup
 Currently, all I have is a simple bootloader that prints "Hello world!" which you could run using qemu or any other VM software
 
 To run, type ```qemu-system-i386 -fda build/main_floppy.img``` into a CLI of your choice
